@@ -1,1 +1,2 @@
-pwd=presentworkingdirectory
+description of the update shell basics
+
